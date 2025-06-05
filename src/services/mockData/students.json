@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@email.com",
+    "phone": "+91 9876543210",
+    "parentPhone": "+91 9876543211",
+    "address": "123 MG Road, Bangalore",
+    "enrollmentDate": "2024-01-15",
+    "batchIds": [1, 2],
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "name": "Priya Patel",
+    "email": "priya.patel@email.com",
+    "phone": "+91 9876543212",
+    "parentPhone": "+91 9876543213",
+    "address": "456 Park Street, Mumbai",
+    "enrollmentDate": "2024-01-20",
+    "batchIds": [1],
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "name": "Rohit Kumar",
+    "email": "rohit.kumar@email.com",
+    "phone": "+91 9876543214",
+    "parentPhone": "+91 9876543215",
+    "address": "789 Civil Lines, Delhi",
+    "enrollmentDate": "2024-02-01",
+    "batchIds": [2, 3],
+    "status": "active"
+  },
+  {
+    "id": 4,
+    "name": "Ananya Singh",
+    "email": "ananya.singh@email.com",
+    "phone": "+91 9876543216",
+    "parentPhone": "+91 9876543217",
+    "address": "321 Sector 15, Chandigarh",
+    "enrollmentDate": "2024-02-05",
+    "batchIds": [3],
+    "status": "active"
+  },
+  {
+    "id": 5,
+    "name": "Arjun Reddy",
+    "email": "arjun.reddy@email.com",
+    "phone": "+91 9876543218",
+    "parentPhone": "+91 9876543219",
+    "address": "654 Jubilee Hills, Hyderabad",
+    "enrollmentDate": "2024-02-10",
+    "batchIds": [1, 4],
+    "status": "active"
+  },
+  {
+    "id": 6,
+    "name": "Kavya Nair",
+    "email": "kavya.nair@email.com",
+    "phone": "+91 9876543220",
+    "parentPhone": "+91 9876543221",
+    "address": "987 Marine Drive, Kochi",
+    "enrollmentDate": "2024-02-15",
+    "batchIds": [4],
+    "status": "active"
+  },
+  {
+    "id": 7,
+    "name": "Vikram Joshi",
+    "email": "vikram.joshi@email.com",
+    "phone": "+91 9876543222",
+    "parentPhone": "+91 9876543223",
+    "address": "147 Koregaon Park, Pune",
+    "enrollmentDate": "2024-02-20",
+    "batchIds": [2],
+    "status": "active"
+  },
+  {
+    "id": 8,
+    "name": "Shreya Gupta",
+    "email": "shreya.gupta@email.com",
+    "phone": "+91 9876543224",
+    "parentPhone": "+91 9876543225",
+    "address": "258 Salt Lake, Kolkata",
+    "enrollmentDate": "2024-02-25",
+    "batchIds": [3, 4],
+    "status": "active"
+  },
+  {
+    "id": 9,
+    "name": "Aditya Verma",
+    "email": "aditya.verma@email.com",
+    "phone": "+91 9876543226",
+    "parentPhone": "+91 9876543227",
+    "address": "369 Lajpat Nagar, Jaipur",
+    "enrollmentDate": "2024-03-01",
+    "batchIds": [1],
+    "status": "active"
+  },
+  {
+    "id": 10,
+    "name": "Rhea Kapoor",
+    "email": "rhea.kapoor@email.com",
+    "phone": "+91 9876543228",
+    "parentPhone": "+91 9876543229",
+    "address": "741 Anna Nagar, Chennai",
+    "enrollmentDate": "2024-03-05",
+    "batchIds": [2, 3],
+    "status": "active"
+  },
+  {
+    "id": 11,
+    "name": "Karthik Menon",
+    "email": "karthik.menon@email.com",
+    "phone": "+91 9876543230",
+    "parentPhone": "+91 9876543231",
+    "address": "852 Whitefield, Bangalore",
+    "enrollmentDate": "2024-03-10",
+    "batchIds": [4],
+    "status": "active"
+  },
+  {
+    "id": 12,
+    "name": "Meera Agarwal",
+    "email": "meera.agarwal@email.com",
+    "phone": "+91 9876543232",
+    "parentPhone": "+91 9876543233",
+    "address": "963 Vastrapur, Ahmedabad",
+    "enrollmentDate": "2024-03-15",
+    "batchIds": [1, 4],
+    "status": "active"
+  }
+]

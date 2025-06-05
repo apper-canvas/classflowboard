@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "studentId": 1,
+    "batchId": 1,
+    "date": "2024-03-01",
+    "status": "present",
+    "remarks": ""
+  },
+  {
+    "id": 2,
+    "studentId": 2,
+    "batchId": 1,
+    "date": "2024-03-01",
+    "status": "present",
+    "remarks": ""
+  },
+  {
+    "id": 3,
+    "studentId": 1,
+    "batchId": 2,
+    "date": "2024-03-02",
+    "status": "present",
+    "remarks": ""
+  },
+  {
+    "id": 4,
+    "studentId": 3,
+    "batchId": 2,
+    "date": "2024-03-02",
+    "status": "absent",
+    "remarks": "Sick leave"
+  },
+  {
+    "id": 5,
+    "studentId": 1,
+    "batchId": 1,
+    "date": "2024-03-03",
+    "status": "present",
+    "remarks": ""
+  },
+  {
+    "id": 6,
+    "studentId": 2,
+    "batchId": 1,
+    "date": "2024-03-03",
+    "status": "late",
+    "remarks": "Traffic jam"
+  },
+  {
+    "id": 7,
+    "studentId": 4,
+    "batchId": 3,
+    "date": "2024-03-04",
+    "status": "present",
+    "remarks": ""
+  },
+  {
+    "id": 8,
+    "studentId": 5,
+    "batchId": 4,
+    "date": "2024-03-05",
+    "status": "present",
+    "remarks": ""
+  },
+  {
+    "id": 9,
+    "studentId": 6,
+    "batchId": 4,
+    "date": "2024-03-05",
+    "status": "present",
+    "remarks": ""
+  },
+  {
+    "id": 10,
+    "studentId": 7,
+    "batchId": 2,
+    "date": "2024-03-06",
+    "status": "present",
+    "remarks": ""
+  },
+  {
+    "id": 11,
+    "studentId": 8,
+    "batchId": 3,
+    "date": "2024-03-07",
+    "status": "absent",
+    "remarks": "Family function"
+  },
+  {
+    "id": 12,
+    "studentId": 9,
+    "batchId": 1,
+    "date": "2024-03-08",
+    "status": "present",
+    "remarks": ""
+  },
+  {
+    "id": 13,
+    "studentId": 10,
+    "batchId": 3,
+    "date": "2024-03-08",
+    "status": "present",
+    "remarks": ""
+  },
+  {
+    "id": 14,
+    "studentId": 11,
+    "batchId": 4,
+    "date": "2024-03-09",
+    "status": "late",
+    "remarks": "Overslept"
+  },
+  {
+    "id": 15,
+    "studentId": 12,
+    "batchId": 1,
+    "date": "2024-03-10",
+    "status": "present",
+    "remarks": ""
+  }
+]
